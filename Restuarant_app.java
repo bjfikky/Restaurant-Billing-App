@@ -337,17 +337,17 @@ public class Restuarant_app {
 		panel_2.add(rdbtnCoolerCup);
 		
 		final ButtonGroup group = new ButtonGroup();
-	    group.add(rdbtnPlastic);
-	    group.add(rdbtnLidCup);
-	    group.add(rdbtnCoolerCup);
+	    	group.add(rdbtnPlastic);
+	    	group.add(rdbtnLidCup);
+	    	group.add(rdbtnCoolerCup);
 	    
-	    final JCheckBox chckbxHomeDelivery = new JCheckBox("Home Delivery");
-	    chckbxHomeDelivery.setBounds(145, 146, 128, 23);
-	    panel_2.add(chckbxHomeDelivery);
+	    	final JCheckBox chckbxHomeDelivery = new JCheckBox("Home Delivery");
+	    	chckbxHomeDelivery.setBounds(145, 146, 128, 23);
+	    	panel_2.add(chckbxHomeDelivery);
 	    
-	    JLabel label = new JLabel("Enter Quantity");
-	    label.setBounds(360, 24, 90, 16);
-	    panel_2.add(label);
+	    	JLabel label = new JLabel("Enter Quantity");
+	    	label.setBounds(360, 24, 90, 16);
+	    	panel_2.add(label);
 	    
 /* ================================= CHANGE PANEL =================================		
 	===============================================================================    */
